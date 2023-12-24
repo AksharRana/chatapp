@@ -1,6 +1,6 @@
 # Real-Time Chat Application
 
-Overview:
+<b>Overview:</b>
 Developed a dynamic and interactive Real-Time Chat Application that allows users to seamlessly join chat rooms and engage in instant messaging. The project is centered around Node.js for the backend, utilizing WebSockets for real-time communication, and HTML, CSS, and JavaScript for the frontend.
 
 <b>Key Contributions:</b>
